@@ -1,0 +1,4 @@
+<?php
+
+skip_test();
+
