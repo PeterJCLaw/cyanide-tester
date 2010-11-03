@@ -3,3 +3,7 @@ Student Robotics IDE (cyanide), but which has since been broken out.
 
 You should put a list of tests in test-schedule, and then run the tests
 by calling run-tests
+
+Dependancies:
+ * PHP CLI
+ * PHP 5.3
